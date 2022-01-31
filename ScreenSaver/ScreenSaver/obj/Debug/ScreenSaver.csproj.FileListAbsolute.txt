@@ -1,0 +1,10 @@
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojAssemblyReference.cache
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Form1.resources
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\b-gny\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
